@@ -1,3 +1,10 @@
-.App {
-  text-align: center;
+.data-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.mysql-data,
+.mongodb-data {
+  flex: 1;
+  padding: 20px;
 }
