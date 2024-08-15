@@ -25,7 +25,7 @@ This project was built using these technologies.
 
 ## Features
 
-**📦 Used to Show Data from DB to Front-End **
+  📦 Used to Show Data from DB to Front-End
 
 ## Getting Started
 
